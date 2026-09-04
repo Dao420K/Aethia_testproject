@@ -1,0 +1,6 @@
+{
+  "name": "Aethelia 3D - Vulkan Viewport",
+  "description": "3D photorealistic planet Aethelia rendered in a high-performance Vulkan-style graphics viewport with atmospheric shaders, volumetric clouds, specular ocean reflections, HDR, and live environment controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
